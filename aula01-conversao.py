@@ -12,5 +12,6 @@ print("==========================")
 
 v1FltStr = 4.5
 v2FltStr = 5.5
-totFltStr = v1FltStr + v2FltStr
+totFltStr = v1FltStr / v2FltStr
+print(type(totFltStr))
 print(totFltStr)
