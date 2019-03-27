@@ -1,3 +1,5 @@
+#RA ALUNO: 121127
+
 #CALCULAR NUMERO PENTAGONAL
 
 numeroPen = int(input("Informe um número inteiro: "))

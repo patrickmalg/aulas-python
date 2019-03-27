@@ -1,3 +1,5 @@
+#RA ALUNO: 121127
+
 #[Exercício Clássico] Faça um programa de
 #conversão de temperatura de Fahrenheit (F)
 #para graus Celsius (C).
