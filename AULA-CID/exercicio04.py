@@ -1,8 +1,6 @@
-#RA ALUNO: 121127
-
-#Escreva um método que aceite um valor
-#inteiro (x) como parâmetro e calcule a
-#expressão:
+#Converta um valor de tempo dado em
+#segundos pelo usuário em um valor de dia,
+#horas, minutos e segundos.
 
 
 tempo = int(input("Digita um valor: "))
